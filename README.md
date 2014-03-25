@@ -20,6 +20,6 @@ Contact
 ----
 Contact me on twitter [@jameselsey1986][2] if you need help.
 
-[1]:https://github.com/jameselsey/pi-robot-server
+[1]:https://github.com/jameselsey/pi-robot-android
 [2]:http://twitter.com/jameselsey1986
     
